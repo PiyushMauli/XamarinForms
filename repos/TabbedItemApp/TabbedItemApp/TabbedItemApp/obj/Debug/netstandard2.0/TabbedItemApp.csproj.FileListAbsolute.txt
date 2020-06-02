@@ -1,0 +1,14 @@
+C:\Users\piyush.j\source\repos\TabbedItemApp\TabbedItemApp\TabbedItemApp\obj\Debug\netstandard2.0\TabbedItemApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\TabbedItemApp\TabbedItemApp\TabbedItemApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\TabbedItemApp\TabbedItemApp\TabbedItemApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\TabbedItemApp\TabbedItemApp\TabbedItemApp\obj\Debug\netstandard2.0\TabbedItemApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\TabbedItemApp\TabbedItemApp\TabbedItemApp\obj\Debug\netstandard2.0\TabbedItemApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\TabbedItemApp\TabbedItemApp\TabbedItemApp\bin\Debug\netstandard2.0\TabbedItemApp.deps.json
+C:\Users\piyush.j\source\repos\TabbedItemApp\TabbedItemApp\TabbedItemApp\bin\Debug\netstandard2.0\TabbedItemApp.dll
+C:\Users\piyush.j\source\repos\TabbedItemApp\TabbedItemApp\TabbedItemApp\bin\Debug\netstandard2.0\ref\TabbedItemApp.dll
+C:\Users\piyush.j\source\repos\TabbedItemApp\TabbedItemApp\TabbedItemApp\bin\Debug\netstandard2.0\TabbedItemApp.pdb
+C:\Users\piyush.j\source\repos\TabbedItemApp\TabbedItemApp\TabbedItemApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\TabbedItemApp\TabbedItemApp\TabbedItemApp\obj\Debug\netstandard2.0\TabbedItemApp.dll
+C:\Users\piyush.j\source\repos\TabbedItemApp\TabbedItemApp\TabbedItemApp\obj\Debug\netstandard2.0\ref\TabbedItemApp.dll
+C:\Users\piyush.j\source\repos\TabbedItemApp\TabbedItemApp\TabbedItemApp\obj\Debug\netstandard2.0\TabbedItemApp.pdb
+C:\Users\piyush.j\source\repos\TabbedItemApp\TabbedItemApp\TabbedItemApp\obj\Debug\netstandard2.0\Contact.xaml.g.cs

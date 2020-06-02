@@ -1,0 +1,12 @@
+C:\Users\piyush.j\source\repos\ToolbarItem\ToolbarItem\ToolbarItem\bin\Debug\netstandard2.0\ToolbarItem.deps.json
+C:\Users\piyush.j\source\repos\ToolbarItem\ToolbarItem\ToolbarItem\bin\Debug\netstandard2.0\ToolbarItem.dll
+C:\Users\piyush.j\source\repos\ToolbarItem\ToolbarItem\ToolbarItem\bin\Debug\netstandard2.0\ref\ToolbarItem.dll
+C:\Users\piyush.j\source\repos\ToolbarItem\ToolbarItem\ToolbarItem\bin\Debug\netstandard2.0\ToolbarItem.pdb
+C:\Users\piyush.j\source\repos\ToolbarItem\ToolbarItem\ToolbarItem\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\ToolbarItem\ToolbarItem\ToolbarItem\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\ToolbarItem\ToolbarItem\ToolbarItem\obj\Debug\netstandard2.0\ToolbarItem.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\ToolbarItem\ToolbarItem\ToolbarItem\obj\Debug\netstandard2.0\ToolbarItem.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\ToolbarItem\ToolbarItem\ToolbarItem\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\ToolbarItem\ToolbarItem\ToolbarItem\obj\Debug\netstandard2.0\ToolbarItem.dll
+C:\Users\piyush.j\source\repos\ToolbarItem\ToolbarItem\ToolbarItem\obj\Debug\netstandard2.0\ref\ToolbarItem.dll
+C:\Users\piyush.j\source\repos\ToolbarItem\ToolbarItem\ToolbarItem\obj\Debug\netstandard2.0\ToolbarItem.pdb

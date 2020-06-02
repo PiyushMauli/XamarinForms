@@ -1,0 +1,15 @@
+C:\Users\piyush.j\source\repos\TabbedPageV2\TabbedPageV2\TabbedPageV2\obj\Debug\netstandard2.0\TabbedPageV2.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\TabbedPageV2\TabbedPageV2\TabbedPageV2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\TabbedPageV2\TabbedPageV2\TabbedPageV2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\TabbedPageV2\TabbedPageV2\TabbedPageV2\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\piyush.j\source\repos\TabbedPageV2\TabbedPageV2\TabbedPageV2\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\piyush.j\source\repos\TabbedPageV2\TabbedPageV2\TabbedPageV2\obj\Debug\netstandard2.0\TabbedPageV2.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\TabbedPageV2\TabbedPageV2\TabbedPageV2\obj\Debug\netstandard2.0\TabbedPageV2.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\TabbedPageV2\TabbedPageV2\TabbedPageV2\obj\Debug\netstandard2.0\TabbedPageV2.dll
+C:\Users\piyush.j\source\repos\TabbedPageV2\TabbedPageV2\TabbedPageV2\obj\Debug\netstandard2.0\ref\TabbedPageV2.dll
+C:\Users\piyush.j\source\repos\TabbedPageV2\TabbedPageV2\TabbedPageV2\obj\Debug\netstandard2.0\TabbedPageV2.pdb
+C:\Users\piyush.j\source\repos\TabbedPageV2\TabbedPageV2\TabbedPageV2\bin\Debug\netstandard2.0\TabbedPageV2.deps.json
+C:\Users\piyush.j\source\repos\TabbedPageV2\TabbedPageV2\TabbedPageV2\bin\Debug\netstandard2.0\TabbedPageV2.dll
+C:\Users\piyush.j\source\repos\TabbedPageV2\TabbedPageV2\TabbedPageV2\bin\Debug\netstandard2.0\ref\TabbedPageV2.dll
+C:\Users\piyush.j\source\repos\TabbedPageV2\TabbedPageV2\TabbedPageV2\bin\Debug\netstandard2.0\TabbedPageV2.pdb
+C:\Users\piyush.j\source\repos\TabbedPageV2\TabbedPageV2\TabbedPageV2\obj\Debug\netstandard2.0\XamlC.stamp

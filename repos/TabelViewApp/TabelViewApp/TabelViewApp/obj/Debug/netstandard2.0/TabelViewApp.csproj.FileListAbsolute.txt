@@ -1,0 +1,14 @@
+C:\Users\piyush.j\source\repos\TabelViewApp\TabelViewApp\TabelViewApp\bin\Debug\netstandard2.0\TabelViewApp.deps.json
+C:\Users\piyush.j\source\repos\TabelViewApp\TabelViewApp\TabelViewApp\bin\Debug\netstandard2.0\TabelViewApp.dll
+C:\Users\piyush.j\source\repos\TabelViewApp\TabelViewApp\TabelViewApp\bin\Debug\netstandard2.0\ref\TabelViewApp.dll
+C:\Users\piyush.j\source\repos\TabelViewApp\TabelViewApp\TabelViewApp\bin\Debug\netstandard2.0\TabelViewApp.pdb
+C:\Users\piyush.j\source\repos\TabelViewApp\TabelViewApp\TabelViewApp\obj\Debug\netstandard2.0\TabelViewApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\TabelViewApp\TabelViewApp\TabelViewApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\TabelViewApp\TabelViewApp\TabelViewApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\TabelViewApp\TabelViewApp\TabelViewApp\obj\Debug\netstandard2.0\TabelViewApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\TabelViewApp\TabelViewApp\TabelViewApp\obj\Debug\netstandard2.0\TabelViewApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\TabelViewApp\TabelViewApp\TabelViewApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\TabelViewApp\TabelViewApp\TabelViewApp\obj\Debug\netstandard2.0\TabelViewApp.dll
+C:\Users\piyush.j\source\repos\TabelViewApp\TabelViewApp\TabelViewApp\obj\Debug\netstandard2.0\ref\TabelViewApp.dll
+C:\Users\piyush.j\source\repos\TabelViewApp\TabelViewApp\TabelViewApp\obj\Debug\netstandard2.0\TabelViewApp.pdb
+C:\Users\piyush.j\source\repos\TabelViewApp\TabelViewApp\TabelViewApp\obj\Debug\netstandard2.0\DateCell.xaml.g.cs

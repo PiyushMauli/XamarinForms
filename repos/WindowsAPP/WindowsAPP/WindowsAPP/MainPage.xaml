@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="WindowsAPP.MainPage"
+             Padding="10,60,10,10">
+
+    <StackLayout HorizontalOptions="Center">
+        <Label Text="Please Enter a Number below 10" HorizontalOptions="Center"/>
+        <Entry x:Name="guessNumber" HorizontalOptions="Center" WidthRequest="130"/>
+        <Button Text="Check" Clicked="Button_Clicked" HorizontalOptions="CenterAndExpand"/>
+        
+            <Label x:Name="checkNum" IsVisible="False"/>
+        
+    </StackLayout>
+
+</ContentPage>
