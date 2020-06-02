@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\OutKeyProgram\OutKeyProgram\bin\Debug\netcoreapp3.1\OutKeyProgram.exe
+C:\Users\piyush.j\source\repos\OutKeyProgram\OutKeyProgram\bin\Debug\netcoreapp3.1\OutKeyProgram.deps.json
+C:\Users\piyush.j\source\repos\OutKeyProgram\OutKeyProgram\bin\Debug\netcoreapp3.1\OutKeyProgram.runtimeconfig.json
+C:\Users\piyush.j\source\repos\OutKeyProgram\OutKeyProgram\bin\Debug\netcoreapp3.1\OutKeyProgram.runtimeconfig.dev.json
+C:\Users\piyush.j\source\repos\OutKeyProgram\OutKeyProgram\bin\Debug\netcoreapp3.1\OutKeyProgram.dll
+C:\Users\piyush.j\source\repos\OutKeyProgram\OutKeyProgram\bin\Debug\netcoreapp3.1\OutKeyProgram.pdb
+C:\Users\piyush.j\source\repos\OutKeyProgram\OutKeyProgram\obj\Debug\netcoreapp3.1\OutKeyProgram.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\OutKeyProgram\OutKeyProgram\obj\Debug\netcoreapp3.1\OutKeyProgram.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\repos\OutKeyProgram\OutKeyProgram\obj\Debug\netcoreapp3.1\OutKeyProgram.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\OutKeyProgram\OutKeyProgram\obj\Debug\netcoreapp3.1\OutKeyProgram.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\OutKeyProgram\OutKeyProgram\obj\Debug\netcoreapp3.1\OutKeyProgram.dll
+C:\Users\piyush.j\source\repos\OutKeyProgram\OutKeyProgram\obj\Debug\netcoreapp3.1\OutKeyProgram.pdb
+C:\Users\piyush.j\source\repos\OutKeyProgram\OutKeyProgram\obj\Debug\netcoreapp3.1\OutKeyProgram.genruntimeconfig.cache

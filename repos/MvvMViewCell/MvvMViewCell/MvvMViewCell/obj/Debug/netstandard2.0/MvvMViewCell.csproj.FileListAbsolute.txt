@@ -1,0 +1,15 @@
+C:\Users\piyush.j\source\repos\MvvMViewCell\MvvMViewCell\MvvMViewCell\bin\Debug\netstandard2.0\MvvMViewCell.deps.json
+C:\Users\piyush.j\source\repos\MvvMViewCell\MvvMViewCell\MvvMViewCell\bin\Debug\netstandard2.0\MvvMViewCell.dll
+C:\Users\piyush.j\source\repos\MvvMViewCell\MvvMViewCell\MvvMViewCell\bin\Debug\netstandard2.0\ref\MvvMViewCell.dll
+C:\Users\piyush.j\source\repos\MvvMViewCell\MvvMViewCell\MvvMViewCell\bin\Debug\netstandard2.0\MvvMViewCell.pdb
+C:\Users\piyush.j\source\repos\MvvMViewCell\MvvMViewCell\MvvMViewCell\obj\Debug\netstandard2.0\MvvMViewCell.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\MvvMViewCell\MvvMViewCell\MvvMViewCell\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMViewCell\MvvMViewCell\MvvMViewCell\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMViewCell\MvvMViewCell\MvvMViewCell\obj\Debug\netstandard2.0\View\HomePage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMViewCell\MvvMViewCell\MvvMViewCell\obj\Debug\netstandard2.0\MvvMViewCell.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\repos\MvvMViewCell\MvvMViewCell\MvvMViewCell\obj\Debug\netstandard2.0\MvvMViewCell.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\MvvMViewCell\MvvMViewCell\MvvMViewCell\obj\Debug\netstandard2.0\MvvMViewCell.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\MvvMViewCell\MvvMViewCell\MvvMViewCell\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\MvvMViewCell\MvvMViewCell\MvvMViewCell\obj\Debug\netstandard2.0\MvvMViewCell.dll
+C:\Users\piyush.j\source\repos\MvvMViewCell\MvvMViewCell\MvvMViewCell\obj\Debug\netstandard2.0\ref\MvvMViewCell.dll
+C:\Users\piyush.j\source\repos\MvvMViewCell\MvvMViewCell\MvvMViewCell\obj\Debug\netstandard2.0\MvvMViewCell.pdb

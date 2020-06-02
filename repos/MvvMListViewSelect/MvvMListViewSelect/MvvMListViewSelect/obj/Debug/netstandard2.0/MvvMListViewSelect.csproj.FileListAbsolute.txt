@@ -1,0 +1,16 @@
+C:\Users\piyush.j\source\repos\MvvMListViewSelect\MvvMListViewSelect\MvvMListViewSelect\bin\Debug\netstandard2.0\MvvMListViewSelect.deps.json
+C:\Users\piyush.j\source\repos\MvvMListViewSelect\MvvMListViewSelect\MvvMListViewSelect\bin\Debug\netstandard2.0\MvvMListViewSelect.dll
+C:\Users\piyush.j\source\repos\MvvMListViewSelect\MvvMListViewSelect\MvvMListViewSelect\bin\Debug\netstandard2.0\ref\MvvMListViewSelect.dll
+C:\Users\piyush.j\source\repos\MvvMListViewSelect\MvvMListViewSelect\MvvMListViewSelect\bin\Debug\netstandard2.0\MvvMListViewSelect.pdb
+C:\Users\piyush.j\source\repos\MvvMListViewSelect\MvvMListViewSelect\MvvMListViewSelect\obj\Debug\netstandard2.0\MvvMListViewSelect.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\MvvMListViewSelect\MvvMListViewSelect\MvvMListViewSelect\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMListViewSelect\MvvMListViewSelect\MvvMListViewSelect\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMListViewSelect\MvvMListViewSelect\MvvMListViewSelect\obj\Debug\netstandard2.0\View\ListPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMListViewSelect\MvvMListViewSelect\MvvMListViewSelect\obj\Debug\netstandard2.0\MvvMListViewSelect.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\repos\MvvMListViewSelect\MvvMListViewSelect\MvvMListViewSelect\obj\Debug\netstandard2.0\MvvMListViewSelect.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\MvvMListViewSelect\MvvMListViewSelect\MvvMListViewSelect\obj\Debug\netstandard2.0\MvvMListViewSelect.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\MvvMListViewSelect\MvvMListViewSelect\MvvMListViewSelect\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\MvvMListViewSelect\MvvMListViewSelect\MvvMListViewSelect\obj\Debug\netstandard2.0\MvvMListViewSelect.dll
+C:\Users\piyush.j\source\repos\MvvMListViewSelect\MvvMListViewSelect\MvvMListViewSelect\obj\Debug\netstandard2.0\ref\MvvMListViewSelect.dll
+C:\Users\piyush.j\source\repos\MvvMListViewSelect\MvvMListViewSelect\MvvMListViewSelect\obj\Debug\netstandard2.0\MvvMListViewSelect.pdb
+C:\Users\piyush.j\source\repos\MvvMListViewSelect\MvvMListViewSelect\MvvMListViewSelect\obj\Debug\netstandard2.0\View\ListPagedetails.xaml.g.cs

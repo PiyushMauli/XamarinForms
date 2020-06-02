@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\PickerApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\PickerApp\PickerApp\PickerApp\bin\Debug\netstandard2.0\PickerApp.deps.json
+C:\Users\piyush.j\source\repos\PickerApp\PickerApp\PickerApp\bin\Debug\netstandard2.0\PickerApp.dll
+C:\Users\piyush.j\source\repos\PickerApp\PickerApp\PickerApp\bin\Debug\netstandard2.0\ref\PickerApp.dll
+C:\Users\piyush.j\source\repos\PickerApp\PickerApp\PickerApp\bin\Debug\netstandard2.0\PickerApp.pdb
+C:\Users\piyush.j\source\repos\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\PickerApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\PickerApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\PickerApp.dll
+C:\Users\piyush.j\source\repos\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\ref\PickerApp.dll
+C:\Users\piyush.j\source\repos\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\PickerApp.pdb

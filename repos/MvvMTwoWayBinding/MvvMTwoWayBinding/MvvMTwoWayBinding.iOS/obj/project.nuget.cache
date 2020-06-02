@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LorFYCDbp0rtLb/XpBmKR6Zy9qS/YgI8q+jaSNe0PuZv6TfC4ltKmE2Pt9n5SxpmdKMy9dM0oi/dsJpZIzirSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\piyush.j\\source\\repos\\MvvMTwoWayBinding\\MvvMTwoWayBinding\\MvvMTwoWayBinding.iOS\\MvvMTwoWayBinding.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piyush.j\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

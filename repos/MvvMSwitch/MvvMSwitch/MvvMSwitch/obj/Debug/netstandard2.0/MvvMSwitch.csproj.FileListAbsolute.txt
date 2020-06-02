@@ -1,0 +1,15 @@
+C:\Users\piyush.j\source\repos\MvvMSwitch\MvvMSwitch\MvvMSwitch\bin\Debug\netstandard2.0\MvvMSwitch.deps.json
+C:\Users\piyush.j\source\repos\MvvMSwitch\MvvMSwitch\MvvMSwitch\bin\Debug\netstandard2.0\MvvMSwitch.dll
+C:\Users\piyush.j\source\repos\MvvMSwitch\MvvMSwitch\MvvMSwitch\bin\Debug\netstandard2.0\ref\MvvMSwitch.dll
+C:\Users\piyush.j\source\repos\MvvMSwitch\MvvMSwitch\MvvMSwitch\bin\Debug\netstandard2.0\MvvMSwitch.pdb
+C:\Users\piyush.j\source\repos\MvvMSwitch\MvvMSwitch\MvvMSwitch\obj\Debug\netstandard2.0\MvvMSwitch.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\MvvMSwitch\MvvMSwitch\MvvMSwitch\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMSwitch\MvvMSwitch\MvvMSwitch\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMSwitch\MvvMSwitch\MvvMSwitch\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMSwitch\MvvMSwitch\MvvMSwitch\obj\Debug\netstandard2.0\MvvMSwitch.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\repos\MvvMSwitch\MvvMSwitch\MvvMSwitch\obj\Debug\netstandard2.0\MvvMSwitch.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\MvvMSwitch\MvvMSwitch\MvvMSwitch\obj\Debug\netstandard2.0\MvvMSwitch.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\MvvMSwitch\MvvMSwitch\MvvMSwitch\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\MvvMSwitch\MvvMSwitch\MvvMSwitch\obj\Debug\netstandard2.0\MvvMSwitch.dll
+C:\Users\piyush.j\source\repos\MvvMSwitch\MvvMSwitch\MvvMSwitch\obj\Debug\netstandard2.0\ref\MvvMSwitch.dll
+C:\Users\piyush.j\source\repos\MvvMSwitch\MvvMSwitch\MvvMSwitch\obj\Debug\netstandard2.0\MvvMSwitch.pdb

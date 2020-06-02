@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ws5rlk+5MFp4SmKEuDxkZ0nUNwpPsqHux14AK2vka67K7qcaWcFWmLqL9eov7YYY28u81KYw0aa9DPtPMwjKKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\piyush.j\\source\\repos\\MvvMSwitch\\MvvMSwitch\\MvvMSwitch.iOS\\MvvMSwitch.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piyush.j\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

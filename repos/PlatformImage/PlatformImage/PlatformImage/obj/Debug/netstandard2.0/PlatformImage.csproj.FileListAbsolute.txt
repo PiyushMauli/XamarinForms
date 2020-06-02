@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\PlatformImage\PlatformImage\PlatformImage\bin\Debug\netstandard2.0\PlatformImage.deps.json
+C:\Users\piyush.j\source\repos\PlatformImage\PlatformImage\PlatformImage\bin\Debug\netstandard2.0\PlatformImage.dll
+C:\Users\piyush.j\source\repos\PlatformImage\PlatformImage\PlatformImage\bin\Debug\netstandard2.0\ref\PlatformImage.dll
+C:\Users\piyush.j\source\repos\PlatformImage\PlatformImage\PlatformImage\bin\Debug\netstandard2.0\PlatformImage.pdb
+C:\Users\piyush.j\source\repos\PlatformImage\PlatformImage\PlatformImage\obj\Debug\netstandard2.0\PlatformImage.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\PlatformImage\PlatformImage\PlatformImage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\PlatformImage\PlatformImage\PlatformImage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\PlatformImage\PlatformImage\PlatformImage\obj\Debug\netstandard2.0\PlatformImage.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\PlatformImage\PlatformImage\PlatformImage\obj\Debug\netstandard2.0\PlatformImage.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\PlatformImage\PlatformImage\PlatformImage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\PlatformImage\PlatformImage\PlatformImage\obj\Debug\netstandard2.0\PlatformImage.dll
+C:\Users\piyush.j\source\repos\PlatformImage\PlatformImage\PlatformImage\obj\Debug\netstandard2.0\ref\PlatformImage.dll
+C:\Users\piyush.j\source\repos\PlatformImage\PlatformImage\PlatformImage\obj\Debug\netstandard2.0\PlatformImage.pdb

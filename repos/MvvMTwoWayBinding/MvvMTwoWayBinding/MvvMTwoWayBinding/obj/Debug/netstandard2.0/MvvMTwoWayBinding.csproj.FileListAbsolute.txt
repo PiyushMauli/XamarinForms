@@ -1,0 +1,15 @@
+C:\Users\piyush.j\source\repos\MvvMTwoWayBinding\MvvMTwoWayBinding\MvvMTwoWayBinding\bin\Debug\netstandard2.0\MvvMTwoWayBinding.deps.json
+C:\Users\piyush.j\source\repos\MvvMTwoWayBinding\MvvMTwoWayBinding\MvvMTwoWayBinding\bin\Debug\netstandard2.0\MvvMTwoWayBinding.dll
+C:\Users\piyush.j\source\repos\MvvMTwoWayBinding\MvvMTwoWayBinding\MvvMTwoWayBinding\bin\Debug\netstandard2.0\ref\MvvMTwoWayBinding.dll
+C:\Users\piyush.j\source\repos\MvvMTwoWayBinding\MvvMTwoWayBinding\MvvMTwoWayBinding\bin\Debug\netstandard2.0\MvvMTwoWayBinding.pdb
+C:\Users\piyush.j\source\repos\MvvMTwoWayBinding\MvvMTwoWayBinding\MvvMTwoWayBinding\obj\Debug\netstandard2.0\MvvMTwoWayBinding.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\MvvMTwoWayBinding\MvvMTwoWayBinding\MvvMTwoWayBinding\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMTwoWayBinding\MvvMTwoWayBinding\MvvMTwoWayBinding\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMTwoWayBinding\MvvMTwoWayBinding\MvvMTwoWayBinding\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMTwoWayBinding\MvvMTwoWayBinding\MvvMTwoWayBinding\obj\Debug\netstandard2.0\MvvMTwoWayBinding.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\repos\MvvMTwoWayBinding\MvvMTwoWayBinding\MvvMTwoWayBinding\obj\Debug\netstandard2.0\MvvMTwoWayBinding.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\MvvMTwoWayBinding\MvvMTwoWayBinding\MvvMTwoWayBinding\obj\Debug\netstandard2.0\MvvMTwoWayBinding.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\MvvMTwoWayBinding\MvvMTwoWayBinding\MvvMTwoWayBinding\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\MvvMTwoWayBinding\MvvMTwoWayBinding\MvvMTwoWayBinding\obj\Debug\netstandard2.0\MvvMTwoWayBinding.dll
+C:\Users\piyush.j\source\repos\MvvMTwoWayBinding\MvvMTwoWayBinding\MvvMTwoWayBinding\obj\Debug\netstandard2.0\ref\MvvMTwoWayBinding.dll
+C:\Users\piyush.j\source\repos\MvvMTwoWayBinding\MvvMTwoWayBinding\MvvMTwoWayBinding\obj\Debug\netstandard2.0\MvvMTwoWayBinding.pdb

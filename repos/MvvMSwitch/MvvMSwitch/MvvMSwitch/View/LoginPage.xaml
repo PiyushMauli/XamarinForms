@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MvvMSwitch.View.LoginPage">
+    <ContentPage.Content>
+        <StackLayout Spacing="15" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Orientation="Vertical">
+            <Entry Text="{Binding PersonName, Mode=TwoWay}" Placeholder="Your Name"/>
+            <Entry Text="{Binding WorksIn,Mode=TwoWay}" Placeholder="WebSite"/>
+            <Switch IsToggled="{Binding MySwitch,Mode=TwoWay}"/>
+            <Label Text="{Binding ShowMessage}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
