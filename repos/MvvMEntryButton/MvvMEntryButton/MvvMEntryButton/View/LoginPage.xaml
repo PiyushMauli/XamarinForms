@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MvvMEntryButton.View.LoginPage"
+             xmlns:local="clr-namespace:MvvMEntryButton.Converter"
+             >
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:MultitriggerConverter x:Key="DataHasBeenEntered"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" Spacing="10" >
+            <Entry Placeholder="UserName" x:Name="user" Text="{Binding User,Mode=TwoWay}"/>
+            <Entry Placeholder="Password" x:Name="pass" Text="{Binding Pass,Mode=TwoWay}"/>
+            <!--Command="{Binding LoginCommand}"-->
+            <Button x:Name="LoginBtn" Text="Login" BackgroundColor="Blue" TextColor="White" IsEnabled="false">
+                <Button.Triggers>
+                    <MultiTrigger TargetType="Button">
+                        <MultiTrigger.Conditions>
+                            <BindingCondition Binding="{Binding Source={x:Reference user},
+                              Path=Text.Length,
+                              Converter={StaticResource DataHasBeenEntered}}"
+                          Value="true" />
+                            <BindingCondition Binding="{Binding Source={x:Reference pass},
+                              Path=Text.Length,
+                              Converter={StaticResource DataHasBeenEntered}}"
+                          Value="true" />
+                        </MultiTrigger.Conditions>
+                        <Setter Property="IsEnabled" Value="True" />
+                    </MultiTrigger>
+                </Button.Triggers>
+            </Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,16 @@
+C:\Users\piyush.j\source\repos\MvvMEntryButton\MvvMEntryButton\MvvMEntryButton\bin\Debug\netstandard2.0\MvvMEntryButton.deps.json
+C:\Users\piyush.j\source\repos\MvvMEntryButton\MvvMEntryButton\MvvMEntryButton\bin\Debug\netstandard2.0\MvvMEntryButton.dll
+C:\Users\piyush.j\source\repos\MvvMEntryButton\MvvMEntryButton\MvvMEntryButton\bin\Debug\netstandard2.0\ref\MvvMEntryButton.dll
+C:\Users\piyush.j\source\repos\MvvMEntryButton\MvvMEntryButton\MvvMEntryButton\bin\Debug\netstandard2.0\MvvMEntryButton.pdb
+C:\Users\piyush.j\source\repos\MvvMEntryButton\MvvMEntryButton\MvvMEntryButton\obj\Debug\netstandard2.0\MvvMEntryButton.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\MvvMEntryButton\MvvMEntryButton\MvvMEntryButton\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMEntryButton\MvvMEntryButton\MvvMEntryButton\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMEntryButton\MvvMEntryButton\MvvMEntryButton\obj\Debug\netstandard2.0\View\DashboardPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMEntryButton\MvvMEntryButton\MvvMEntryButton\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMEntryButton\MvvMEntryButton\MvvMEntryButton\obj\Debug\netstandard2.0\MvvMEntryButton.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\repos\MvvMEntryButton\MvvMEntryButton\MvvMEntryButton\obj\Debug\netstandard2.0\MvvMEntryButton.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\MvvMEntryButton\MvvMEntryButton\MvvMEntryButton\obj\Debug\netstandard2.0\MvvMEntryButton.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\MvvMEntryButton\MvvMEntryButton\MvvMEntryButton\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\MvvMEntryButton\MvvMEntryButton\MvvMEntryButton\obj\Debug\netstandard2.0\MvvMEntryButton.dll
+C:\Users\piyush.j\source\repos\MvvMEntryButton\MvvMEntryButton\MvvMEntryButton\obj\Debug\netstandard2.0\ref\MvvMEntryButton.dll
+C:\Users\piyush.j\source\repos\MvvMEntryButton\MvvMEntryButton\MvvMEntryButton\obj\Debug\netstandard2.0\MvvMEntryButton.pdb

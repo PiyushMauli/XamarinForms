@@ -1,0 +1,14 @@
+C:\Users\piyush.j\source\repos\MvvMBasics\MvvMBasics\MvvMBasics\bin\Debug\netstandard2.0\MvvMBasics.deps.json
+C:\Users\piyush.j\source\repos\MvvMBasics\MvvMBasics\MvvMBasics\bin\Debug\netstandard2.0\MvvMBasics.dll
+C:\Users\piyush.j\source\repos\MvvMBasics\MvvMBasics\MvvMBasics\bin\Debug\netstandard2.0\ref\MvvMBasics.dll
+C:\Users\piyush.j\source\repos\MvvMBasics\MvvMBasics\MvvMBasics\bin\Debug\netstandard2.0\MvvMBasics.pdb
+C:\Users\piyush.j\source\repos\MvvMBasics\MvvMBasics\MvvMBasics\obj\Debug\netstandard2.0\MvvMBasics.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\MvvMBasics\MvvMBasics\MvvMBasics\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMBasics\MvvMBasics\MvvMBasics\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMBasics\MvvMBasics\MvvMBasics\obj\Debug\netstandard2.0\MvvMBasics.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\repos\MvvMBasics\MvvMBasics\MvvMBasics\obj\Debug\netstandard2.0\MvvMBasics.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\MvvMBasics\MvvMBasics\MvvMBasics\obj\Debug\netstandard2.0\MvvMBasics.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\MvvMBasics\MvvMBasics\MvvMBasics\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\MvvMBasics\MvvMBasics\MvvMBasics\obj\Debug\netstandard2.0\MvvMBasics.dll
+C:\Users\piyush.j\source\repos\MvvMBasics\MvvMBasics\MvvMBasics\obj\Debug\netstandard2.0\ref\MvvMBasics.dll
+C:\Users\piyush.j\source\repos\MvvMBasics\MvvMBasics\MvvMBasics\obj\Debug\netstandard2.0\MvvMBasics.pdb

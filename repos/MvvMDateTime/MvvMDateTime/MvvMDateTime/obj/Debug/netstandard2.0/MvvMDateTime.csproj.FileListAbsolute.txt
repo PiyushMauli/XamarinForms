@@ -1,0 +1,14 @@
+C:\Users\piyush.j\source\repos\MvvMDateTime\MvvMDateTime\MvvMDateTime\obj\Debug\netstandard2.0\MvvMDateTime.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\MvvMDateTime\MvvMDateTime\MvvMDateTime\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMDateTime\MvvMDateTime\MvvMDateTime\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMDateTime\MvvMDateTime\MvvMDateTime\obj\Debug\netstandard2.0\MvvMDateTime.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\repos\MvvMDateTime\MvvMDateTime\MvvMDateTime\obj\Debug\netstandard2.0\MvvMDateTime.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\MvvMDateTime\MvvMDateTime\MvvMDateTime\obj\Debug\netstandard2.0\MvvMDateTime.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\MvvMDateTime\MvvMDateTime\MvvMDateTime\obj\Debug\netstandard2.0\MvvMDateTime.dll
+C:\Users\piyush.j\source\repos\MvvMDateTime\MvvMDateTime\MvvMDateTime\obj\Debug\netstandard2.0\ref\MvvMDateTime.dll
+C:\Users\piyush.j\source\repos\MvvMDateTime\MvvMDateTime\MvvMDateTime\obj\Debug\netstandard2.0\MvvMDateTime.pdb
+C:\Users\piyush.j\source\repos\MvvMDateTime\MvvMDateTime\MvvMDateTime\bin\Debug\netstandard2.0\MvvMDateTime.deps.json
+C:\Users\piyush.j\source\repos\MvvMDateTime\MvvMDateTime\MvvMDateTime\bin\Debug\netstandard2.0\MvvMDateTime.dll
+C:\Users\piyush.j\source\repos\MvvMDateTime\MvvMDateTime\MvvMDateTime\bin\Debug\netstandard2.0\ref\MvvMDateTime.dll
+C:\Users\piyush.j\source\repos\MvvMDateTime\MvvMDateTime\MvvMDateTime\bin\Debug\netstandard2.0\MvvMDateTime.pdb
+C:\Users\piyush.j\source\repos\MvvMDateTime\MvvMDateTime\MvvMDateTime\obj\Debug\netstandard2.0\XamlC.stamp

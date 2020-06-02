@@ -1,0 +1,15 @@
+C:\Users\piyush.j\source\repos\MVVMdemo\MVVMdemo\MVVMdemo\bin\Debug\netstandard2.0\MVVMdemo.deps.json
+C:\Users\piyush.j\source\repos\MVVMdemo\MVVMdemo\MVVMdemo\bin\Debug\netstandard2.0\MVVMdemo.dll
+C:\Users\piyush.j\source\repos\MVVMdemo\MVVMdemo\MVVMdemo\bin\Debug\netstandard2.0\ref\MVVMdemo.dll
+C:\Users\piyush.j\source\repos\MVVMdemo\MVVMdemo\MVVMdemo\bin\Debug\netstandard2.0\MVVMdemo.pdb
+C:\Users\piyush.j\source\repos\MVVMdemo\MVVMdemo\MVVMdemo\obj\Debug\netstandard2.0\MVVMdemo.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\MVVMdemo\MVVMdemo\MVVMdemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\MVVMdemo\MVVMdemo\MVVMdemo\obj\Debug\netstandard2.0\MVVMdemo.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\MVVMdemo\MVVMdemo\MVVMdemo\obj\Debug\netstandard2.0\MVVMdemo.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\MVVMdemo\MVVMdemo\MVVMdemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\MVVMdemo\MVVMdemo\MVVMdemo\obj\Debug\netstandard2.0\MVVMdemo.dll
+C:\Users\piyush.j\source\repos\MVVMdemo\MVVMdemo\MVVMdemo\obj\Debug\netstandard2.0\ref\MVVMdemo.dll
+C:\Users\piyush.j\source\repos\MVVMdemo\MVVMdemo\MVVMdemo\obj\Debug\netstandard2.0\MVVMdemo.pdb
+C:\Users\piyush.j\source\repos\MVVMdemo\MVVMdemo\MVVMdemo\obj\Debug\netstandard2.0\MVVMdemo.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\repos\MVVMdemo\MVVMdemo\MVVMdemo\obj\Debug\netstandard2.0\Views\PlaylistDetailPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MVVMdemo\MVVMdemo\MVVMdemo\obj\Debug\netstandard2.0\Views\PlaylistsPage.xaml.g.cs

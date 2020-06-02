@@ -1,0 +1,15 @@
+C:\Users\piyush.j\source\repos\MvvMListSearch\MvvMListSearch\MvvMListSearch\bin\Debug\netstandard2.0\MvvMListSearch.deps.json
+C:\Users\piyush.j\source\repos\MvvMListSearch\MvvMListSearch\MvvMListSearch\bin\Debug\netstandard2.0\MvvMListSearch.dll
+C:\Users\piyush.j\source\repos\MvvMListSearch\MvvMListSearch\MvvMListSearch\bin\Debug\netstandard2.0\ref\MvvMListSearch.dll
+C:\Users\piyush.j\source\repos\MvvMListSearch\MvvMListSearch\MvvMListSearch\bin\Debug\netstandard2.0\MvvMListSearch.pdb
+C:\Users\piyush.j\source\repos\MvvMListSearch\MvvMListSearch\MvvMListSearch\obj\Debug\netstandard2.0\MvvMListSearch.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\MvvMListSearch\MvvMListSearch\MvvMListSearch\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMListSearch\MvvMListSearch\MvvMListSearch\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMListSearch\MvvMListSearch\MvvMListSearch\obj\Debug\netstandard2.0\View\MyListPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMListSearch\MvvMListSearch\MvvMListSearch\obj\Debug\netstandard2.0\MvvMListSearch.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\repos\MvvMListSearch\MvvMListSearch\MvvMListSearch\obj\Debug\netstandard2.0\MvvMListSearch.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\MvvMListSearch\MvvMListSearch\MvvMListSearch\obj\Debug\netstandard2.0\MvvMListSearch.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\MvvMListSearch\MvvMListSearch\MvvMListSearch\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\MvvMListSearch\MvvMListSearch\MvvMListSearch\obj\Debug\netstandard2.0\MvvMListSearch.dll
+C:\Users\piyush.j\source\repos\MvvMListSearch\MvvMListSearch\MvvMListSearch\obj\Debug\netstandard2.0\ref\MvvMListSearch.dll
+C:\Users\piyush.j\source\repos\MvvMListSearch\MvvMListSearch\MvvMListSearch\obj\Debug\netstandard2.0\MvvMListSearch.pdb

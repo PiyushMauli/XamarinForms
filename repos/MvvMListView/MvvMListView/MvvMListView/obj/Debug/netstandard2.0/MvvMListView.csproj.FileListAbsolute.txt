@@ -1,0 +1,14 @@
+C:\Users\piyush.j\source\repos\MvvMListView\MvvMListView\MvvMListView\bin\Debug\netstandard2.0\MvvMListView.deps.json
+C:\Users\piyush.j\source\repos\MvvMListView\MvvMListView\MvvMListView\bin\Debug\netstandard2.0\MvvMListView.dll
+C:\Users\piyush.j\source\repos\MvvMListView\MvvMListView\MvvMListView\bin\Debug\netstandard2.0\ref\MvvMListView.dll
+C:\Users\piyush.j\source\repos\MvvMListView\MvvMListView\MvvMListView\bin\Debug\netstandard2.0\MvvMListView.pdb
+C:\Users\piyush.j\source\repos\MvvMListView\MvvMListView\MvvMListView\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMListView\MvvMListView\MvvMListView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MvvMListView\MvvMListView\MvvMListView\obj\Debug\netstandard2.0\MvvMListView.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\repos\MvvMListView\MvvMListView\MvvMListView\obj\Debug\netstandard2.0\MvvMListView.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\MvvMListView\MvvMListView\MvvMListView\obj\Debug\netstandard2.0\MvvMListView.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\MvvMListView\MvvMListView\MvvMListView\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\MvvMListView\MvvMListView\MvvMListView\obj\Debug\netstandard2.0\MvvMListView.dll
+C:\Users\piyush.j\source\repos\MvvMListView\MvvMListView\MvvMListView\obj\Debug\netstandard2.0\ref\MvvMListView.dll
+C:\Users\piyush.j\source\repos\MvvMListView\MvvMListView\MvvMListView\obj\Debug\netstandard2.0\MvvMListView.pdb
+C:\Users\piyush.j\source\repos\MvvMListView\MvvMListView\MvvMListView\obj\Debug\netstandard2.0\MvvMListView.csprojAssemblyReference.cache
