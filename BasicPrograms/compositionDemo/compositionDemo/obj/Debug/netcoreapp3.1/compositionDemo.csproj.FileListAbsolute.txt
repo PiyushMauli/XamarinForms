@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\BasicPrograms\compositionDemo\compositionDemo\obj\Debug\netcoreapp3.1\compositionDemo.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\BasicPrograms\compositionDemo\compositionDemo\obj\Debug\netcoreapp3.1\compositionDemo.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\BasicPrograms\compositionDemo\compositionDemo\obj\Debug\netcoreapp3.1\compositionDemo.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\BasicPrograms\compositionDemo\compositionDemo\obj\Debug\netcoreapp3.1\compositionDemo.AssemblyInfo.cs
+C:\Users\piyush.j\source\BasicPrograms\compositionDemo\compositionDemo\bin\Debug\netcoreapp3.1\compositionDemo.exe
+C:\Users\piyush.j\source\BasicPrograms\compositionDemo\compositionDemo\bin\Debug\netcoreapp3.1\compositionDemo.deps.json
+C:\Users\piyush.j\source\BasicPrograms\compositionDemo\compositionDemo\bin\Debug\netcoreapp3.1\compositionDemo.runtimeconfig.json
+C:\Users\piyush.j\source\BasicPrograms\compositionDemo\compositionDemo\bin\Debug\netcoreapp3.1\compositionDemo.runtimeconfig.dev.json
+C:\Users\piyush.j\source\BasicPrograms\compositionDemo\compositionDemo\bin\Debug\netcoreapp3.1\compositionDemo.dll
+C:\Users\piyush.j\source\BasicPrograms\compositionDemo\compositionDemo\bin\Debug\netcoreapp3.1\compositionDemo.pdb
+C:\Users\piyush.j\source\BasicPrograms\compositionDemo\compositionDemo\obj\Debug\netcoreapp3.1\compositionDemo.dll
+C:\Users\piyush.j\source\BasicPrograms\compositionDemo\compositionDemo\obj\Debug\netcoreapp3.1\compositionDemo.pdb
+C:\Users\piyush.j\source\BasicPrograms\compositionDemo\compositionDemo\obj\Debug\netcoreapp3.1\compositionDemo.genruntimeconfig.cache

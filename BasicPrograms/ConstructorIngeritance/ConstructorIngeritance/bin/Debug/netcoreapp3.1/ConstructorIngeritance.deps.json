@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConstructorIngeritance/1.0.0": {
+        "runtime": {
+          "ConstructorIngeritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConstructorIngeritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

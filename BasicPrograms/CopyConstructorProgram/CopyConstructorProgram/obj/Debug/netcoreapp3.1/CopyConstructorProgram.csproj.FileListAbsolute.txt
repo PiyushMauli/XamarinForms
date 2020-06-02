@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\BasicPrograms\CopyConstructorProgram\CopyConstructorProgram\bin\Debug\netcoreapp3.1\CopyConstructorProgram.exe
+C:\Users\piyush.j\source\BasicPrograms\CopyConstructorProgram\CopyConstructorProgram\bin\Debug\netcoreapp3.1\CopyConstructorProgram.deps.json
+C:\Users\piyush.j\source\BasicPrograms\CopyConstructorProgram\CopyConstructorProgram\bin\Debug\netcoreapp3.1\CopyConstructorProgram.runtimeconfig.json
+C:\Users\piyush.j\source\BasicPrograms\CopyConstructorProgram\CopyConstructorProgram\bin\Debug\netcoreapp3.1\CopyConstructorProgram.runtimeconfig.dev.json
+C:\Users\piyush.j\source\BasicPrograms\CopyConstructorProgram\CopyConstructorProgram\bin\Debug\netcoreapp3.1\CopyConstructorProgram.dll
+C:\Users\piyush.j\source\BasicPrograms\CopyConstructorProgram\CopyConstructorProgram\bin\Debug\netcoreapp3.1\CopyConstructorProgram.pdb
+C:\Users\piyush.j\source\BasicPrograms\CopyConstructorProgram\CopyConstructorProgram\obj\Debug\netcoreapp3.1\CopyConstructorProgram.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\BasicPrograms\CopyConstructorProgram\CopyConstructorProgram\obj\Debug\netcoreapp3.1\CopyConstructorProgram.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\BasicPrograms\CopyConstructorProgram\CopyConstructorProgram\obj\Debug\netcoreapp3.1\CopyConstructorProgram.AssemblyInfo.cs
+C:\Users\piyush.j\source\BasicPrograms\CopyConstructorProgram\CopyConstructorProgram\obj\Debug\netcoreapp3.1\CopyConstructorProgram.dll
+C:\Users\piyush.j\source\BasicPrograms\CopyConstructorProgram\CopyConstructorProgram\obj\Debug\netcoreapp3.1\CopyConstructorProgram.pdb
+C:\Users\piyush.j\source\BasicPrograms\CopyConstructorProgram\CopyConstructorProgram\obj\Debug\netcoreapp3.1\CopyConstructorProgram.genruntimeconfig.cache
+C:\Users\piyush.j\source\BasicPrograms\CopyConstructorProgram\CopyConstructorProgram\obj\Debug\netcoreapp3.1\CopyConstructorProgram.csprojAssemblyReference.cache

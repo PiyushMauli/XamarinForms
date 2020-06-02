@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\BasicPrograms\ConstructorIngeritance\ConstructorIngeritance\bin\Debug\netcoreapp3.1\ConstructorIngeritance.exe
+C:\Users\piyush.j\source\BasicPrograms\ConstructorIngeritance\ConstructorIngeritance\bin\Debug\netcoreapp3.1\ConstructorIngeritance.deps.json
+C:\Users\piyush.j\source\BasicPrograms\ConstructorIngeritance\ConstructorIngeritance\bin\Debug\netcoreapp3.1\ConstructorIngeritance.runtimeconfig.json
+C:\Users\piyush.j\source\BasicPrograms\ConstructorIngeritance\ConstructorIngeritance\bin\Debug\netcoreapp3.1\ConstructorIngeritance.runtimeconfig.dev.json
+C:\Users\piyush.j\source\BasicPrograms\ConstructorIngeritance\ConstructorIngeritance\bin\Debug\netcoreapp3.1\ConstructorIngeritance.dll
+C:\Users\piyush.j\source\BasicPrograms\ConstructorIngeritance\ConstructorIngeritance\bin\Debug\netcoreapp3.1\ConstructorIngeritance.pdb
+C:\Users\piyush.j\source\BasicPrograms\ConstructorIngeritance\ConstructorIngeritance\obj\Debug\netcoreapp3.1\ConstructorIngeritance.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\BasicPrograms\ConstructorIngeritance\ConstructorIngeritance\obj\Debug\netcoreapp3.1\ConstructorIngeritance.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\BasicPrograms\ConstructorIngeritance\ConstructorIngeritance\obj\Debug\netcoreapp3.1\ConstructorIngeritance.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\BasicPrograms\ConstructorIngeritance\ConstructorIngeritance\obj\Debug\netcoreapp3.1\ConstructorIngeritance.AssemblyInfo.cs
+C:\Users\piyush.j\source\BasicPrograms\ConstructorIngeritance\ConstructorIngeritance\obj\Debug\netcoreapp3.1\ConstructorIngeritance.dll
+C:\Users\piyush.j\source\BasicPrograms\ConstructorIngeritance\ConstructorIngeritance\obj\Debug\netcoreapp3.1\ConstructorIngeritance.pdb
+C:\Users\piyush.j\source\BasicPrograms\ConstructorIngeritance\ConstructorIngeritance\obj\Debug\netcoreapp3.1\ConstructorIngeritance.genruntimeconfig.cache

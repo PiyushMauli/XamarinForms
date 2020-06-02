@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\BasicPrograms\GetterSetterEx\GetterSetterEx\bin\Debug\netcoreapp3.1\GetterSetterEx.exe
+C:\Users\piyush.j\source\BasicPrograms\GetterSetterEx\GetterSetterEx\bin\Debug\netcoreapp3.1\GetterSetterEx.deps.json
+C:\Users\piyush.j\source\BasicPrograms\GetterSetterEx\GetterSetterEx\bin\Debug\netcoreapp3.1\GetterSetterEx.runtimeconfig.json
+C:\Users\piyush.j\source\BasicPrograms\GetterSetterEx\GetterSetterEx\bin\Debug\netcoreapp3.1\GetterSetterEx.runtimeconfig.dev.json
+C:\Users\piyush.j\source\BasicPrograms\GetterSetterEx\GetterSetterEx\bin\Debug\netcoreapp3.1\GetterSetterEx.dll
+C:\Users\piyush.j\source\BasicPrograms\GetterSetterEx\GetterSetterEx\bin\Debug\netcoreapp3.1\GetterSetterEx.pdb
+C:\Users\piyush.j\source\BasicPrograms\GetterSetterEx\GetterSetterEx\obj\Debug\netcoreapp3.1\GetterSetterEx.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\BasicPrograms\GetterSetterEx\GetterSetterEx\obj\Debug\netcoreapp3.1\GetterSetterEx.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\BasicPrograms\GetterSetterEx\GetterSetterEx\obj\Debug\netcoreapp3.1\GetterSetterEx.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\BasicPrograms\GetterSetterEx\GetterSetterEx\obj\Debug\netcoreapp3.1\GetterSetterEx.AssemblyInfo.cs
+C:\Users\piyush.j\source\BasicPrograms\GetterSetterEx\GetterSetterEx\obj\Debug\netcoreapp3.1\GetterSetterEx.dll
+C:\Users\piyush.j\source\BasicPrograms\GetterSetterEx\GetterSetterEx\obj\Debug\netcoreapp3.1\GetterSetterEx.pdb
+C:\Users\piyush.j\source\BasicPrograms\GetterSetterEx\GetterSetterEx\obj\Debug\netcoreapp3.1\GetterSetterEx.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\piyush.j\source\BasicPrograms\CompotionDemov2\CompotionDemov2\obj\Debug\netcoreapp3.1\CompotionDemov2.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\BasicPrograms\CompotionDemov2\CompotionDemov2\obj\Debug\netcoreapp3.1\CompotionDemov2.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\BasicPrograms\CompotionDemov2\CompotionDemov2\obj\Debug\netcoreapp3.1\CompotionDemov2.AssemblyInfo.cs
+C:\Users\piyush.j\source\BasicPrograms\CompotionDemov2\CompotionDemov2\bin\Debug\netcoreapp3.1\CompotionDemov2.exe
+C:\Users\piyush.j\source\BasicPrograms\CompotionDemov2\CompotionDemov2\bin\Debug\netcoreapp3.1\CompotionDemov2.deps.json
+C:\Users\piyush.j\source\BasicPrograms\CompotionDemov2\CompotionDemov2\bin\Debug\netcoreapp3.1\CompotionDemov2.runtimeconfig.json
+C:\Users\piyush.j\source\BasicPrograms\CompotionDemov2\CompotionDemov2\bin\Debug\netcoreapp3.1\CompotionDemov2.runtimeconfig.dev.json
+C:\Users\piyush.j\source\BasicPrograms\CompotionDemov2\CompotionDemov2\bin\Debug\netcoreapp3.1\CompotionDemov2.dll
+C:\Users\piyush.j\source\BasicPrograms\CompotionDemov2\CompotionDemov2\bin\Debug\netcoreapp3.1\CompotionDemov2.pdb
+C:\Users\piyush.j\source\BasicPrograms\CompotionDemov2\CompotionDemov2\obj\Debug\netcoreapp3.1\CompotionDemov2.dll
+C:\Users\piyush.j\source\BasicPrograms\CompotionDemov2\CompotionDemov2\obj\Debug\netcoreapp3.1\CompotionDemov2.pdb
+C:\Users\piyush.j\source\BasicPrograms\CompotionDemov2\CompotionDemov2\obj\Debug\netcoreapp3.1\CompotionDemov2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\BasicPrograms\InterfaceApplication\InterfaceApplication\bin\Debug\netcoreapp3.1\InterfaceApplication.exe
+C:\Users\piyush.j\source\BasicPrograms\InterfaceApplication\InterfaceApplication\bin\Debug\netcoreapp3.1\InterfaceApplication.deps.json
+C:\Users\piyush.j\source\BasicPrograms\InterfaceApplication\InterfaceApplication\bin\Debug\netcoreapp3.1\InterfaceApplication.runtimeconfig.json
+C:\Users\piyush.j\source\BasicPrograms\InterfaceApplication\InterfaceApplication\bin\Debug\netcoreapp3.1\InterfaceApplication.runtimeconfig.dev.json
+C:\Users\piyush.j\source\BasicPrograms\InterfaceApplication\InterfaceApplication\bin\Debug\netcoreapp3.1\InterfaceApplication.dll
+C:\Users\piyush.j\source\BasicPrograms\InterfaceApplication\InterfaceApplication\bin\Debug\netcoreapp3.1\InterfaceApplication.pdb
+C:\Users\piyush.j\source\BasicPrograms\InterfaceApplication\InterfaceApplication\obj\Debug\netcoreapp3.1\InterfaceApplication.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\BasicPrograms\InterfaceApplication\InterfaceApplication\obj\Debug\netcoreapp3.1\InterfaceApplication.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\BasicPrograms\InterfaceApplication\InterfaceApplication\obj\Debug\netcoreapp3.1\InterfaceApplication.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\BasicPrograms\InterfaceApplication\InterfaceApplication\obj\Debug\netcoreapp3.1\InterfaceApplication.AssemblyInfo.cs
+C:\Users\piyush.j\source\BasicPrograms\InterfaceApplication\InterfaceApplication\obj\Debug\netcoreapp3.1\InterfaceApplication.dll
+C:\Users\piyush.j\source\BasicPrograms\InterfaceApplication\InterfaceApplication\obj\Debug\netcoreapp3.1\InterfaceApplication.pdb
+C:\Users\piyush.j\source\BasicPrograms\InterfaceApplication\InterfaceApplication\obj\Debug\netcoreapp3.1\InterfaceApplication.genruntimeconfig.cache

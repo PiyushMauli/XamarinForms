@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\BasicPrograms\AbstractProgram\AbstractProgram\bin\Debug\netcoreapp3.1\AbstractProgram.exe
+C:\Users\piyush.j\source\BasicPrograms\AbstractProgram\AbstractProgram\bin\Debug\netcoreapp3.1\AbstractProgram.deps.json
+C:\Users\piyush.j\source\BasicPrograms\AbstractProgram\AbstractProgram\bin\Debug\netcoreapp3.1\AbstractProgram.runtimeconfig.json
+C:\Users\piyush.j\source\BasicPrograms\AbstractProgram\AbstractProgram\bin\Debug\netcoreapp3.1\AbstractProgram.runtimeconfig.dev.json
+C:\Users\piyush.j\source\BasicPrograms\AbstractProgram\AbstractProgram\bin\Debug\netcoreapp3.1\AbstractProgram.dll
+C:\Users\piyush.j\source\BasicPrograms\AbstractProgram\AbstractProgram\bin\Debug\netcoreapp3.1\AbstractProgram.pdb
+C:\Users\piyush.j\source\BasicPrograms\AbstractProgram\AbstractProgram\obj\Debug\netcoreapp3.1\AbstractProgram.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\BasicPrograms\AbstractProgram\AbstractProgram\obj\Debug\netcoreapp3.1\AbstractProgram.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\BasicPrograms\AbstractProgram\AbstractProgram\obj\Debug\netcoreapp3.1\AbstractProgram.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\BasicPrograms\AbstractProgram\AbstractProgram\obj\Debug\netcoreapp3.1\AbstractProgram.AssemblyInfo.cs
+C:\Users\piyush.j\source\BasicPrograms\AbstractProgram\AbstractProgram\obj\Debug\netcoreapp3.1\AbstractProgram.dll
+C:\Users\piyush.j\source\BasicPrograms\AbstractProgram\AbstractProgram\obj\Debug\netcoreapp3.1\AbstractProgram.pdb
+C:\Users\piyush.j\source\BasicPrograms\AbstractProgram\AbstractProgram\obj\Debug\netcoreapp3.1\AbstractProgram.genruntimeconfig.cache

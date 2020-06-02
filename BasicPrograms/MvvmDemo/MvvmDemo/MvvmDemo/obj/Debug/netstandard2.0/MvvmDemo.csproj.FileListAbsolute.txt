@@ -1,0 +1,16 @@
+C:\Users\piyush.j\source\BasicPrograms\MvvmDemo\MvvmDemo\MvvmDemo\bin\Debug\netstandard2.0\MvvmDemo.deps.json
+C:\Users\piyush.j\source\BasicPrograms\MvvmDemo\MvvmDemo\MvvmDemo\bin\Debug\netstandard2.0\MvvmDemo.dll
+C:\Users\piyush.j\source\BasicPrograms\MvvmDemo\MvvmDemo\MvvmDemo\bin\Debug\netstandard2.0\ref\MvvmDemo.dll
+C:\Users\piyush.j\source\BasicPrograms\MvvmDemo\MvvmDemo\MvvmDemo\bin\Debug\netstandard2.0\MvvmDemo.pdb
+C:\Users\piyush.j\source\BasicPrograms\MvvmDemo\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\BasicPrograms\MvvmDemo\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\BasicPrograms\MvvmDemo\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\BasicPrograms\MvvmDemo\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\Views\PlaylistDetailPage.xaml.g.cs
+C:\Users\piyush.j\source\BasicPrograms\MvvmDemo\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\Views\PlaylistsPage.xaml.g.cs
+C:\Users\piyush.j\source\BasicPrograms\MvvmDemo\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\BasicPrograms\MvvmDemo\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\BasicPrograms\MvvmDemo\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.AssemblyInfo.cs
+C:\Users\piyush.j\source\BasicPrograms\MvvmDemo\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\BasicPrograms\MvvmDemo\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.dll
+C:\Users\piyush.j\source\BasicPrograms\MvvmDemo\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\ref\MvvmDemo.dll
+C:\Users\piyush.j\source\BasicPrograms\MvvmDemo\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.pdb
