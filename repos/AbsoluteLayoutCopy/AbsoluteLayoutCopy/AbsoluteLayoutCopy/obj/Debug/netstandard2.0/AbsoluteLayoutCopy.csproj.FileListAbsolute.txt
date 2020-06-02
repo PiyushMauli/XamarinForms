@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\AbsoluteLayoutCopy\AbsoluteLayoutCopy\AbsoluteLayoutCopy\bin\Debug\netstandard2.0\AbsoluteLayoutCopy.deps.json
+C:\Users\piyush.j\source\repos\AbsoluteLayoutCopy\AbsoluteLayoutCopy\AbsoluteLayoutCopy\bin\Debug\netstandard2.0\AbsoluteLayoutCopy.dll
+C:\Users\piyush.j\source\repos\AbsoluteLayoutCopy\AbsoluteLayoutCopy\AbsoluteLayoutCopy\bin\Debug\netstandard2.0\ref\AbsoluteLayoutCopy.dll
+C:\Users\piyush.j\source\repos\AbsoluteLayoutCopy\AbsoluteLayoutCopy\AbsoluteLayoutCopy\bin\Debug\netstandard2.0\AbsoluteLayoutCopy.pdb
+C:\Users\piyush.j\source\repos\AbsoluteLayoutCopy\AbsoluteLayoutCopy\AbsoluteLayoutCopy\obj\Debug\netstandard2.0\AbsoluteLayoutCopy.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\AbsoluteLayoutCopy\AbsoluteLayoutCopy\AbsoluteLayoutCopy\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\AbsoluteLayoutCopy\AbsoluteLayoutCopy\AbsoluteLayoutCopy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\AbsoluteLayoutCopy\AbsoluteLayoutCopy\AbsoluteLayoutCopy\obj\Debug\netstandard2.0\AbsoluteLayoutCopy.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\AbsoluteLayoutCopy\AbsoluteLayoutCopy\AbsoluteLayoutCopy\obj\Debug\netstandard2.0\AbsoluteLayoutCopy.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\AbsoluteLayoutCopy\AbsoluteLayoutCopy\AbsoluteLayoutCopy\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\AbsoluteLayoutCopy\AbsoluteLayoutCopy\AbsoluteLayoutCopy\obj\Debug\netstandard2.0\AbsoluteLayoutCopy.dll
+C:\Users\piyush.j\source\repos\AbsoluteLayoutCopy\AbsoluteLayoutCopy\AbsoluteLayoutCopy\obj\Debug\netstandard2.0\ref\AbsoluteLayoutCopy.dll
+C:\Users\piyush.j\source\repos\AbsoluteLayoutCopy\AbsoluteLayoutCopy\AbsoluteLayoutCopy\obj\Debug\netstandard2.0\AbsoluteLayoutCopy.pdb
