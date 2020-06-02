@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\GridApp\GridApp\GridApp\bin\Debug\netstandard2.0\GridApp.deps.json
+C:\Users\piyush.j\source\repos\GridApp\GridApp\GridApp\bin\Debug\netstandard2.0\GridApp.dll
+C:\Users\piyush.j\source\repos\GridApp\GridApp\GridApp\bin\Debug\netstandard2.0\ref\GridApp.dll
+C:\Users\piyush.j\source\repos\GridApp\GridApp\GridApp\bin\Debug\netstandard2.0\GridApp.pdb
+C:\Users\piyush.j\source\repos\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\GridApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\GridApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\GridApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\GridApp.dll
+C:\Users\piyush.j\source\repos\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\ref\GridApp.dll
+C:\Users\piyush.j\source\repos\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\GridApp.pdb

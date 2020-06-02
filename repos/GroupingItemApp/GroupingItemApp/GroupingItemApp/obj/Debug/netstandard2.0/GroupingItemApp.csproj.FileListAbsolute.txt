@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\GroupingItemApp\GroupingItemApp\GroupingItemApp\obj\Debug\netstandard2.0\GroupingItemApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\GroupingItemApp\GroupingItemApp\GroupingItemApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\GroupingItemApp\GroupingItemApp\GroupingItemApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\GroupingItemApp\GroupingItemApp\GroupingItemApp\obj\Debug\netstandard2.0\GroupingItemApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\GroupingItemApp\GroupingItemApp\GroupingItemApp\obj\Debug\netstandard2.0\GroupingItemApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\GroupingItemApp\GroupingItemApp\GroupingItemApp\bin\Debug\netstandard2.0\GroupingItemApp.deps.json
+C:\Users\piyush.j\source\repos\GroupingItemApp\GroupingItemApp\GroupingItemApp\bin\Debug\netstandard2.0\GroupingItemApp.dll
+C:\Users\piyush.j\source\repos\GroupingItemApp\GroupingItemApp\GroupingItemApp\bin\Debug\netstandard2.0\ref\GroupingItemApp.dll
+C:\Users\piyush.j\source\repos\GroupingItemApp\GroupingItemApp\GroupingItemApp\bin\Debug\netstandard2.0\GroupingItemApp.pdb
+C:\Users\piyush.j\source\repos\GroupingItemApp\GroupingItemApp\GroupingItemApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\GroupingItemApp\GroupingItemApp\GroupingItemApp\obj\Debug\netstandard2.0\GroupingItemApp.dll
+C:\Users\piyush.j\source\repos\GroupingItemApp\GroupingItemApp\GroupingItemApp\obj\Debug\netstandard2.0\ref\GroupingItemApp.dll
+C:\Users\piyush.j\source\repos\GroupingItemApp\GroupingItemApp\GroupingItemApp\obj\Debug\netstandard2.0\GroupingItemApp.pdb

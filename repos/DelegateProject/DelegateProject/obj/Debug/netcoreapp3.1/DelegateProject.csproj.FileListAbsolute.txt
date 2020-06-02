@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\DelegateProject\DelegateProject\bin\Debug\netcoreapp3.1\DelegateProject.exe
+C:\Users\piyush.j\source\repos\DelegateProject\DelegateProject\bin\Debug\netcoreapp3.1\DelegateProject.deps.json
+C:\Users\piyush.j\source\repos\DelegateProject\DelegateProject\bin\Debug\netcoreapp3.1\DelegateProject.runtimeconfig.json
+C:\Users\piyush.j\source\repos\DelegateProject\DelegateProject\bin\Debug\netcoreapp3.1\DelegateProject.runtimeconfig.dev.json
+C:\Users\piyush.j\source\repos\DelegateProject\DelegateProject\bin\Debug\netcoreapp3.1\DelegateProject.dll
+C:\Users\piyush.j\source\repos\DelegateProject\DelegateProject\bin\Debug\netcoreapp3.1\DelegateProject.pdb
+C:\Users\piyush.j\source\repos\DelegateProject\DelegateProject\obj\Debug\netcoreapp3.1\DelegateProject.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\DelegateProject\DelegateProject\obj\Debug\netcoreapp3.1\DelegateProject.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\repos\DelegateProject\DelegateProject\obj\Debug\netcoreapp3.1\DelegateProject.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\DelegateProject\DelegateProject\obj\Debug\netcoreapp3.1\DelegateProject.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\DelegateProject\DelegateProject\obj\Debug\netcoreapp3.1\DelegateProject.dll
+C:\Users\piyush.j\source\repos\DelegateProject\DelegateProject\obj\Debug\netcoreapp3.1\DelegateProject.pdb
+C:\Users\piyush.j\source\repos\DelegateProject\DelegateProject\obj\Debug\netcoreapp3.1\DelegateProject.genruntimeconfig.cache

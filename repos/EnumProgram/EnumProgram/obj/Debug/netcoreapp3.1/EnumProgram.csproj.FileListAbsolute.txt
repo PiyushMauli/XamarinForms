@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\EnumProgram\EnumProgram\bin\Debug\netcoreapp3.1\EnumProgram.exe
+C:\Users\piyush.j\source\repos\EnumProgram\EnumProgram\bin\Debug\netcoreapp3.1\EnumProgram.deps.json
+C:\Users\piyush.j\source\repos\EnumProgram\EnumProgram\bin\Debug\netcoreapp3.1\EnumProgram.runtimeconfig.json
+C:\Users\piyush.j\source\repos\EnumProgram\EnumProgram\bin\Debug\netcoreapp3.1\EnumProgram.runtimeconfig.dev.json
+C:\Users\piyush.j\source\repos\EnumProgram\EnumProgram\bin\Debug\netcoreapp3.1\EnumProgram.dll
+C:\Users\piyush.j\source\repos\EnumProgram\EnumProgram\bin\Debug\netcoreapp3.1\EnumProgram.pdb
+C:\Users\piyush.j\source\repos\EnumProgram\EnumProgram\obj\Debug\netcoreapp3.1\EnumProgram.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\EnumProgram\EnumProgram\obj\Debug\netcoreapp3.1\EnumProgram.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\repos\EnumProgram\EnumProgram\obj\Debug\netcoreapp3.1\EnumProgram.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\EnumProgram\EnumProgram\obj\Debug\netcoreapp3.1\EnumProgram.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\EnumProgram\EnumProgram\obj\Debug\netcoreapp3.1\EnumProgram.dll
+C:\Users\piyush.j\source\repos\EnumProgram\EnumProgram\obj\Debug\netcoreapp3.1\EnumProgram.pdb
+C:\Users\piyush.j\source\repos\EnumProgram\EnumProgram\obj\Debug\netcoreapp3.1\EnumProgram.genruntimeconfig.cache

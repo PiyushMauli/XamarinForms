@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\DialerApp\DialerApp\DialerApp\bin\Debug\netstandard2.0\DialerApp.deps.json
+C:\Users\piyush.j\source\repos\DialerApp\DialerApp\DialerApp\bin\Debug\netstandard2.0\DialerApp.dll
+C:\Users\piyush.j\source\repos\DialerApp\DialerApp\DialerApp\bin\Debug\netstandard2.0\ref\DialerApp.dll
+C:\Users\piyush.j\source\repos\DialerApp\DialerApp\DialerApp\bin\Debug\netstandard2.0\DialerApp.pdb
+C:\Users\piyush.j\source\repos\DialerApp\DialerApp\DialerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\DialerApp\DialerApp\DialerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\DialerApp\DialerApp\DialerApp\obj\Debug\netstandard2.0\DialerApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\DialerApp\DialerApp\DialerApp\obj\Debug\netstandard2.0\DialerApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\DialerApp\DialerApp\DialerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\DialerApp\DialerApp\DialerApp\obj\Debug\netstandard2.0\DialerApp.dll
+C:\Users\piyush.j\source\repos\DialerApp\DialerApp\DialerApp\obj\Debug\netstandard2.0\ref\DialerApp.dll
+C:\Users\piyush.j\source\repos\DialerApp\DialerApp\DialerApp\obj\Debug\netstandard2.0\DialerApp.pdb
+C:\Users\piyush.j\source\repos\DialerApp\DialerApp\DialerApp\obj\Debug\netstandard2.0\DialerApp.csprojAssemblyReference.cache
