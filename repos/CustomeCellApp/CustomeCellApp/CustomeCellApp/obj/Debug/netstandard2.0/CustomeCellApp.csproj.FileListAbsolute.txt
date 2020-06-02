@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\CustomeCellApp\CustomeCellApp\CustomeCellApp\bin\Debug\netstandard2.0\CustomeCellApp.deps.json
+C:\Users\piyush.j\source\repos\CustomeCellApp\CustomeCellApp\CustomeCellApp\bin\Debug\netstandard2.0\CustomeCellApp.dll
+C:\Users\piyush.j\source\repos\CustomeCellApp\CustomeCellApp\CustomeCellApp\bin\Debug\netstandard2.0\ref\CustomeCellApp.dll
+C:\Users\piyush.j\source\repos\CustomeCellApp\CustomeCellApp\CustomeCellApp\bin\Debug\netstandard2.0\CustomeCellApp.pdb
+C:\Users\piyush.j\source\repos\CustomeCellApp\CustomeCellApp\CustomeCellApp\obj\Debug\netstandard2.0\CustomeCellApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\CustomeCellApp\CustomeCellApp\CustomeCellApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\CustomeCellApp\CustomeCellApp\CustomeCellApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\CustomeCellApp\CustomeCellApp\CustomeCellApp\obj\Debug\netstandard2.0\CustomeCellApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\CustomeCellApp\CustomeCellApp\CustomeCellApp\obj\Debug\netstandard2.0\CustomeCellApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\CustomeCellApp\CustomeCellApp\CustomeCellApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\CustomeCellApp\CustomeCellApp\CustomeCellApp\obj\Debug\netstandard2.0\CustomeCellApp.dll
+C:\Users\piyush.j\source\repos\CustomeCellApp\CustomeCellApp\CustomeCellApp\obj\Debug\netstandard2.0\ref\CustomeCellApp.dll
+C:\Users\piyush.j\source\repos\CustomeCellApp\CustomeCellApp\CustomeCellApp\obj\Debug\netstandard2.0\CustomeCellApp.pdb
