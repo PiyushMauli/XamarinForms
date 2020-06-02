@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\RegistrationFormApp\RegistrationFormApp\RegistrationFormApp\obj\Debug\netstandard2.0\RegistrationFormApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\RegistrationFormApp\RegistrationFormApp\RegistrationFormApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\RegistrationFormApp\RegistrationFormApp\RegistrationFormApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\RegistrationFormApp\RegistrationFormApp\RegistrationFormApp\obj\Debug\netstandard2.0\RegistrationFormApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\RegistrationFormApp\RegistrationFormApp\RegistrationFormApp\obj\Debug\netstandard2.0\RegistrationFormApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\RegistrationFormApp\RegistrationFormApp\RegistrationFormApp\obj\Debug\netstandard2.0\RegistrationFormApp.dll
+C:\Users\piyush.j\source\repos\RegistrationFormApp\RegistrationFormApp\RegistrationFormApp\obj\Debug\netstandard2.0\ref\RegistrationFormApp.dll
+C:\Users\piyush.j\source\repos\RegistrationFormApp\RegistrationFormApp\RegistrationFormApp\obj\Debug\netstandard2.0\RegistrationFormApp.pdb
+C:\Users\piyush.j\source\repos\RegistrationFormApp\RegistrationFormApp\RegistrationFormApp\bin\Debug\netstandard2.0\RegistrationFormApp.deps.json
+C:\Users\piyush.j\source\repos\RegistrationFormApp\RegistrationFormApp\RegistrationFormApp\bin\Debug\netstandard2.0\RegistrationFormApp.dll
+C:\Users\piyush.j\source\repos\RegistrationFormApp\RegistrationFormApp\RegistrationFormApp\bin\Debug\netstandard2.0\ref\RegistrationFormApp.dll
+C:\Users\piyush.j\source\repos\RegistrationFormApp\RegistrationFormApp\RegistrationFormApp\bin\Debug\netstandard2.0\RegistrationFormApp.pdb
+C:\Users\piyush.j\source\repos\RegistrationFormApp\RegistrationFormApp\RegistrationFormApp\obj\Debug\netstandard2.0\XamlC.stamp

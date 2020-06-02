@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQH8DbsNuCK0BjuHMZLrQ7WIELFZJBv0GXPbNJNOCOe+MnKhrE7lUATAh//5ypdE2ZR1TtRbGg95GC38W8G2WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\piyush.j\\source\\repos\\PushNotifications\\PushNotifications\\PushNotifications\\PushNotifications.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piyush.j\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\piyush.j\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\piyush.j\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

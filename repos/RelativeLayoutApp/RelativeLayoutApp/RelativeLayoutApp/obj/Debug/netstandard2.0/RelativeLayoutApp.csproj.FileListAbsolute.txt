@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\RelativeLayoutApp\RelativeLayoutApp\RelativeLayoutApp\bin\Debug\netstandard2.0\RelativeLayoutApp.deps.json
+C:\Users\piyush.j\source\repos\RelativeLayoutApp\RelativeLayoutApp\RelativeLayoutApp\bin\Debug\netstandard2.0\RelativeLayoutApp.dll
+C:\Users\piyush.j\source\repos\RelativeLayoutApp\RelativeLayoutApp\RelativeLayoutApp\bin\Debug\netstandard2.0\ref\RelativeLayoutApp.dll
+C:\Users\piyush.j\source\repos\RelativeLayoutApp\RelativeLayoutApp\RelativeLayoutApp\bin\Debug\netstandard2.0\RelativeLayoutApp.pdb
+C:\Users\piyush.j\source\repos\RelativeLayoutApp\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\RelativeLayoutApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\RelativeLayoutApp\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\RelativeLayoutApp\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\RelativeLayoutApp\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\RelativeLayoutApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\RelativeLayoutApp\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\RelativeLayoutApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\RelativeLayoutApp\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\RelativeLayoutApp\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\RelativeLayoutApp.dll
+C:\Users\piyush.j\source\repos\RelativeLayoutApp\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\ref\RelativeLayoutApp.dll
+C:\Users\piyush.j\source\repos\RelativeLayoutApp\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\RelativeLayoutApp.pdb

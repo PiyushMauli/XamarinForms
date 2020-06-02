@@ -1,0 +1,7 @@
+C:\Users\piyush.j\source\repos\RealmDatabaseEx\RealmDatabaseEx\RealmDatabaseEx\bin\Debug\netstandard2.0\RealmDatabaseEx.deps.json
+C:\Users\piyush.j\source\repos\RealmDatabaseEx\RealmDatabaseEx\RealmDatabaseEx\bin\Debug\netstandard2.0\RealmDatabaseEx.dll
+C:\Users\piyush.j\source\repos\RealmDatabaseEx\RealmDatabaseEx\RealmDatabaseEx\obj\Debug\netstandard2.0\RealmDatabaseEx.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\RealmDatabaseEx\RealmDatabaseEx\RealmDatabaseEx\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\RealmDatabaseEx\RealmDatabaseEx\RealmDatabaseEx\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\RealmDatabaseEx\RealmDatabaseEx\RealmDatabaseEx\obj\Debug\netstandard2.0\RealmDatabaseEx.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\RealmDatabaseEx\RealmDatabaseEx\RealmDatabaseEx\obj\Debug\netstandard2.0\RealmDatabaseEx.AssemblyInfo.cs

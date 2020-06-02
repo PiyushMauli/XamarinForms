@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\SQLiteApp\SQLiteApp\SQLiteApp\obj\Debug\netstandard2.0\SQLiteApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\SQLiteApp\SQLiteApp\SQLiteApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\SQLiteApp\SQLiteApp\SQLiteApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\SQLiteApp\SQLiteApp\SQLiteApp\obj\Debug\netstandard2.0\SQLiteApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\SQLiteApp\SQLiteApp\SQLiteApp\obj\Debug\netstandard2.0\SQLiteApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\SQLiteApp\SQLiteApp\SQLiteApp\bin\Debug\netstandard2.0\SQLiteApp.deps.json
+C:\Users\piyush.j\source\repos\SQLiteApp\SQLiteApp\SQLiteApp\bin\Debug\netstandard2.0\SQLiteApp.dll
+C:\Users\piyush.j\source\repos\SQLiteApp\SQLiteApp\SQLiteApp\bin\Debug\netstandard2.0\ref\SQLiteApp.dll
+C:\Users\piyush.j\source\repos\SQLiteApp\SQLiteApp\SQLiteApp\bin\Debug\netstandard2.0\SQLiteApp.pdb
+C:\Users\piyush.j\source\repos\SQLiteApp\SQLiteApp\SQLiteApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\SQLiteApp\SQLiteApp\SQLiteApp\obj\Debug\netstandard2.0\SQLiteApp.dll
+C:\Users\piyush.j\source\repos\SQLiteApp\SQLiteApp\SQLiteApp\obj\Debug\netstandard2.0\ref\SQLiteApp.dll
+C:\Users\piyush.j\source\repos\SQLiteApp\SQLiteApp\SQLiteApp\obj\Debug\netstandard2.0\SQLiteApp.pdb

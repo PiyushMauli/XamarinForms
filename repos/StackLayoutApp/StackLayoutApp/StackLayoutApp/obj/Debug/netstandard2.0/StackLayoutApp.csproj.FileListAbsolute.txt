@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\StackLayoutApp\StackLayoutApp\StackLayoutApp\bin\Debug\netstandard2.0\StackLayoutApp.deps.json
+C:\Users\piyush.j\source\repos\StackLayoutApp\StackLayoutApp\StackLayoutApp\bin\Debug\netstandard2.0\StackLayoutApp.dll
+C:\Users\piyush.j\source\repos\StackLayoutApp\StackLayoutApp\StackLayoutApp\bin\Debug\netstandard2.0\ref\StackLayoutApp.dll
+C:\Users\piyush.j\source\repos\StackLayoutApp\StackLayoutApp\StackLayoutApp\bin\Debug\netstandard2.0\StackLayoutApp.pdb
+C:\Users\piyush.j\source\repos\StackLayoutApp\StackLayoutApp\StackLayoutApp\obj\Debug\netstandard2.0\StackLayoutApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\StackLayoutApp\StackLayoutApp\StackLayoutApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\StackLayoutApp\StackLayoutApp\StackLayoutApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\StackLayoutApp\StackLayoutApp\StackLayoutApp\obj\Debug\netstandard2.0\StackLayoutApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\StackLayoutApp\StackLayoutApp\StackLayoutApp\obj\Debug\netstandard2.0\StackLayoutApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\StackLayoutApp\StackLayoutApp\StackLayoutApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\StackLayoutApp\StackLayoutApp\StackLayoutApp\obj\Debug\netstandard2.0\StackLayoutApp.dll
+C:\Users\piyush.j\source\repos\StackLayoutApp\StackLayoutApp\StackLayoutApp\obj\Debug\netstandard2.0\ref\StackLayoutApp.dll
+C:\Users\piyush.j\source\repos\StackLayoutApp\StackLayoutApp\StackLayoutApp\obj\Debug\netstandard2.0\StackLayoutApp.pdb

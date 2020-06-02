@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\StepperApp\StepperApp\StepperApp\bin\Debug\netstandard2.0\StepperApp.deps.json
+C:\Users\piyush.j\source\repos\StepperApp\StepperApp\StepperApp\bin\Debug\netstandard2.0\StepperApp.dll
+C:\Users\piyush.j\source\repos\StepperApp\StepperApp\StepperApp\bin\Debug\netstandard2.0\ref\StepperApp.dll
+C:\Users\piyush.j\source\repos\StepperApp\StepperApp\StepperApp\bin\Debug\netstandard2.0\StepperApp.pdb
+C:\Users\piyush.j\source\repos\StepperApp\StepperApp\StepperApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\StepperApp\StepperApp\StepperApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\StepperApp\StepperApp\StepperApp\obj\Debug\netstandard2.0\StepperApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\StepperApp\StepperApp\StepperApp\obj\Debug\netstandard2.0\StepperApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\StepperApp\StepperApp\StepperApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\StepperApp\StepperApp\StepperApp\obj\Debug\netstandard2.0\StepperApp.dll
+C:\Users\piyush.j\source\repos\StepperApp\StepperApp\StepperApp\obj\Debug\netstandard2.0\ref\StepperApp.dll
+C:\Users\piyush.j\source\repos\StepperApp\StepperApp\StepperApp\obj\Debug\netstandard2.0\StepperApp.pdb
+C:\Users\piyush.j\source\repos\StepperApp\StepperApp\StepperApp\obj\Debug\netstandard2.0\StepperApp.csprojAssemblyReference.cache

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738433482019",
+    "firebase_url": "https://impelsys-inc.firebaseio.com",
+    "project_id": "impelsys-inc",
+    "storage_bucket": "impelsys-inc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738433482019:android:6e2d4f0583c24a335d2096",
+        "android_client_info": {
+          "package_name": "com.companyname.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738433482019-56o056fso0g188pd3e3vi3e6plsq32tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU4DpNzuBIj8JAg3RIphvFn3UYyATfnPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738433482019-56o056fso0g188pd3e3vi3e6plsq32tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

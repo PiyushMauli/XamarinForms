@@ -1,0 +1,15 @@
+C:\Users\piyush.j\source\repos\PushNotifications\PushNotifications\PushNotifications\bin\Debug\netstandard2.0\PushNotifications.deps.json
+C:\Users\piyush.j\source\repos\PushNotifications\PushNotifications\PushNotifications\bin\Debug\netstandard2.0\PushNotifications.dll
+C:\Users\piyush.j\source\repos\PushNotifications\PushNotifications\PushNotifications\bin\Debug\netstandard2.0\ref\PushNotifications.dll
+C:\Users\piyush.j\source\repos\PushNotifications\PushNotifications\PushNotifications\bin\Debug\netstandard2.0\PushNotifications.pdb
+C:\Users\piyush.j\source\repos\PushNotifications\PushNotifications\PushNotifications\obj\Debug\netstandard2.0\PushNotifications.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\PushNotifications\PushNotifications\PushNotifications\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\PushNotifications\PushNotifications\PushNotifications\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\PushNotifications\PushNotifications\PushNotifications\obj\Debug\netstandard2.0\PushNotifications.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\repos\PushNotifications\PushNotifications\PushNotifications\obj\Debug\netstandard2.0\PushNotifications.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\PushNotifications\PushNotifications\PushNotifications\obj\Debug\netstandard2.0\PushNotifications.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\PushNotifications\PushNotifications\PushNotifications\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\PushNotifications\PushNotifications\PushNotifications\obj\Debug\netstandard2.0\PushNotifications.dll
+C:\Users\piyush.j\source\repos\PushNotifications\PushNotifications\PushNotifications\obj\Debug\netstandard2.0\ref\PushNotifications.dll
+C:\Users\piyush.j\source\repos\PushNotifications\PushNotifications\PushNotifications\obj\Debug\netstandard2.0\PushNotifications.pdb
+C:\Users\piyush.j\source\repos\PushNotifications\PushNotifications\PushNotifications\obj\Debug\netstandard2.0\HomePage.xaml.g.cs

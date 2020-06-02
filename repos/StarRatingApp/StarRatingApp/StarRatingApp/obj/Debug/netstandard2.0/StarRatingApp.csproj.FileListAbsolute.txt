@@ -1,0 +1,14 @@
+C:\Users\piyush.j\source\repos\StarRatingApp\StarRatingApp\StarRatingApp\bin\Debug\netstandard2.0\StarRatingApp.deps.json
+C:\Users\piyush.j\source\repos\StarRatingApp\StarRatingApp\StarRatingApp\bin\Debug\netstandard2.0\StarRatingApp.dll
+C:\Users\piyush.j\source\repos\StarRatingApp\StarRatingApp\StarRatingApp\bin\Debug\netstandard2.0\ref\StarRatingApp.dll
+C:\Users\piyush.j\source\repos\StarRatingApp\StarRatingApp\StarRatingApp\bin\Debug\netstandard2.0\StarRatingApp.pdb
+C:\Users\piyush.j\source\repos\StarRatingApp\StarRatingApp\StarRatingApp\obj\Debug\netstandard2.0\StarRatingApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\StarRatingApp\StarRatingApp\StarRatingApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\StarRatingApp\StarRatingApp\StarRatingApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\StarRatingApp\StarRatingApp\StarRatingApp\obj\Debug\netstandard2.0\StarRatingApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\StarRatingApp\StarRatingApp\StarRatingApp\obj\Debug\netstandard2.0\StarRatingApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\StarRatingApp\StarRatingApp\StarRatingApp\obj\Debug\netstandard2.0\StarRatingApp.dll
+C:\Users\piyush.j\source\repos\StarRatingApp\StarRatingApp\StarRatingApp\obj\Debug\netstandard2.0\ref\StarRatingApp.dll
+C:\Users\piyush.j\source\repos\StarRatingApp\StarRatingApp\StarRatingApp\obj\Debug\netstandard2.0\StarRatingApp.pdb
+C:\Users\piyush.j\source\repos\StarRatingApp\StarRatingApp\StarRatingApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\StarRatingApp\StarRatingApp\StarRatingApp\obj\Debug\netstandard2.0\Home.xaml.g.cs

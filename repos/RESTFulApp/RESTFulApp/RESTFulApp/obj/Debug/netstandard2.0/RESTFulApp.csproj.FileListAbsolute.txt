@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\RESTFulApp\RESTFulApp\RESTFulApp\bin\Debug\netstandard2.0\RESTFulApp.deps.json
+C:\Users\piyush.j\source\repos\RESTFulApp\RESTFulApp\RESTFulApp\bin\Debug\netstandard2.0\RESTFulApp.dll
+C:\Users\piyush.j\source\repos\RESTFulApp\RESTFulApp\RESTFulApp\bin\Debug\netstandard2.0\ref\RESTFulApp.dll
+C:\Users\piyush.j\source\repos\RESTFulApp\RESTFulApp\RESTFulApp\bin\Debug\netstandard2.0\RESTFulApp.pdb
+C:\Users\piyush.j\source\repos\RESTFulApp\RESTFulApp\RESTFulApp\obj\Debug\netstandard2.0\RESTFulApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\RESTFulApp\RESTFulApp\RESTFulApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\RESTFulApp\RESTFulApp\RESTFulApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\RESTFulApp\RESTFulApp\RESTFulApp\obj\Debug\netstandard2.0\RESTFulApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\RESTFulApp\RESTFulApp\RESTFulApp\obj\Debug\netstandard2.0\RESTFulApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\RESTFulApp\RESTFulApp\RESTFulApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\RESTFulApp\RESTFulApp\RESTFulApp\obj\Debug\netstandard2.0\RESTFulApp.dll
+C:\Users\piyush.j\source\repos\RESTFulApp\RESTFulApp\RESTFulApp\obj\Debug\netstandard2.0\ref\RESTFulApp.dll
+C:\Users\piyush.j\source\repos\RESTFulApp\RESTFulApp\RESTFulApp\obj\Debug\netstandard2.0\RESTFulApp.pdb

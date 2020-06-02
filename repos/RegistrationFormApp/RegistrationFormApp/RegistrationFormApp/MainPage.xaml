@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RegistrationFormApp.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White" Padding="20">
+            <Label Text="Registration Form" HorizontalOptions="Center" FontSize="Medium"/>
+            <Entry Placeholder="Username"/>
+            <Entry Placeholder="Password" IsPassword="True"/>
+            <Entry Placeholder="Age" Keyboard="Numeric"/>
+            <Entry Placeholder="Mobile Number" Keyboard="Telephone"/>
+            <Entry Placeholder="Email" Keyboard="Email"/>
+            <Editor HeightRequest="150"/>
+            <Button Text="Sign Up" BackgroundColor="#2ccbff" TextColor="Black"/>
+            <Label>
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="-------------------------------------" TextColor="Black"/>
+                        <Span Text="OR-------------------------------------" TextColor="Black"/>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+            <Label>
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Dont have an account?" TextColor="Black" FontAttributes="None"/>
+                        <Span Text="Click here" TextColor="Red" FontAttributes="Bold"/>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

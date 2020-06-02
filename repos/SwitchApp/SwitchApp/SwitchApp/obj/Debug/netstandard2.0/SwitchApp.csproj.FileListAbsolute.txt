@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\SwitchApp\SwitchApp\SwitchApp\bin\Debug\netstandard2.0\SwitchApp.deps.json
+C:\Users\piyush.j\source\repos\SwitchApp\SwitchApp\SwitchApp\bin\Debug\netstandard2.0\SwitchApp.dll
+C:\Users\piyush.j\source\repos\SwitchApp\SwitchApp\SwitchApp\bin\Debug\netstandard2.0\ref\SwitchApp.dll
+C:\Users\piyush.j\source\repos\SwitchApp\SwitchApp\SwitchApp\bin\Debug\netstandard2.0\SwitchApp.pdb
+C:\Users\piyush.j\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.dll
+C:\Users\piyush.j\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\ref\SwitchApp.dll
+C:\Users\piyush.j\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.pdb
