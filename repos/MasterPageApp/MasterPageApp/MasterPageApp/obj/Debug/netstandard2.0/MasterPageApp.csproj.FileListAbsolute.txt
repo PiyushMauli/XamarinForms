@@ -1,0 +1,15 @@
+C:\Users\piyush.j\source\repos\MasterPageApp\MasterPageApp\MasterPageApp\obj\Debug\netstandard2.0\MasterPageApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\MasterPageApp\MasterPageApp\MasterPageApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\MasterPageApp\MasterPageApp\MasterPageApp\obj\Debug\netstandard2.0\ContactPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MasterPageApp\MasterPageApp\MasterPageApp\obj\Debug\netstandard2.0\ContentDetailPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MasterPageApp\MasterPageApp\MasterPageApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\MasterPageApp\MasterPageApp\MasterPageApp\obj\Debug\netstandard2.0\MasterPageApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\MasterPageApp\MasterPageApp\MasterPageApp\obj\Debug\netstandard2.0\MasterPageApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\MasterPageApp\MasterPageApp\MasterPageApp\obj\Debug\netstandard2.0\MasterPageApp.dll
+C:\Users\piyush.j\source\repos\MasterPageApp\MasterPageApp\MasterPageApp\obj\Debug\netstandard2.0\ref\MasterPageApp.dll
+C:\Users\piyush.j\source\repos\MasterPageApp\MasterPageApp\MasterPageApp\obj\Debug\netstandard2.0\MasterPageApp.pdb
+C:\Users\piyush.j\source\repos\MasterPageApp\MasterPageApp\MasterPageApp\bin\Debug\netstandard2.0\MasterPageApp.deps.json
+C:\Users\piyush.j\source\repos\MasterPageApp\MasterPageApp\MasterPageApp\bin\Debug\netstandard2.0\MasterPageApp.dll
+C:\Users\piyush.j\source\repos\MasterPageApp\MasterPageApp\MasterPageApp\bin\Debug\netstandard2.0\ref\MasterPageApp.dll
+C:\Users\piyush.j\source\repos\MasterPageApp\MasterPageApp\MasterPageApp\bin\Debug\netstandard2.0\MasterPageApp.pdb
+C:\Users\piyush.j\source\repos\MasterPageApp\MasterPageApp\MasterPageApp\obj\Debug\netstandard2.0\XamlC.stamp

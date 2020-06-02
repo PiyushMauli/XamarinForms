@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\ListApp\ListApp\ListApp\bin\Debug\netstandard2.0\ListApp.deps.json
+C:\Users\piyush.j\source\repos\ListApp\ListApp\ListApp\bin\Debug\netstandard2.0\ListApp.dll
+C:\Users\piyush.j\source\repos\ListApp\ListApp\ListApp\bin\Debug\netstandard2.0\ref\ListApp.dll
+C:\Users\piyush.j\source\repos\ListApp\ListApp\ListApp\bin\Debug\netstandard2.0\ListApp.pdb
+C:\Users\piyush.j\source\repos\ListApp\ListApp\ListApp\obj\Debug\netstandard2.0\ListApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\ListApp\ListApp\ListApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\ListApp\ListApp\ListApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\ListApp\ListApp\ListApp\obj\Debug\netstandard2.0\ListApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\ListApp\ListApp\ListApp\obj\Debug\netstandard2.0\ListApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\ListApp\ListApp\ListApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\ListApp\ListApp\ListApp\obj\Debug\netstandard2.0\ListApp.dll
+C:\Users\piyush.j\source\repos\ListApp\ListApp\ListApp\obj\Debug\netstandard2.0\ref\ListApp.dll
+C:\Users\piyush.j\source\repos\ListApp\ListApp\ListApp\obj\Debug\netstandard2.0\ListApp.pdb

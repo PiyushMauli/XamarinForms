@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\ImageApp\ImageApp\ImageApp\bin\Debug\netstandard2.0\ImageApp.deps.json
+C:\Users\piyush.j\source\repos\ImageApp\ImageApp\ImageApp\bin\Debug\netstandard2.0\ImageApp.dll
+C:\Users\piyush.j\source\repos\ImageApp\ImageApp\ImageApp\bin\Debug\netstandard2.0\ref\ImageApp.dll
+C:\Users\piyush.j\source\repos\ImageApp\ImageApp\ImageApp\bin\Debug\netstandard2.0\ImageApp.pdb
+C:\Users\piyush.j\source\repos\ImageApp\ImageApp\ImageApp\obj\Debug\netstandard2.0\ImageApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\ImageApp\ImageApp\ImageApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\ImageApp\ImageApp\ImageApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\ImageApp\ImageApp\ImageApp\obj\Debug\netstandard2.0\ImageApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\ImageApp\ImageApp\ImageApp\obj\Debug\netstandard2.0\ImageApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\ImageApp\ImageApp\ImageApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\ImageApp\ImageApp\ImageApp\obj\Debug\netstandard2.0\ImageApp.dll
+C:\Users\piyush.j\source\repos\ImageApp\ImageApp\ImageApp\obj\Debug\netstandard2.0\ref\ImageApp.dll
+C:\Users\piyush.j\source\repos\ImageApp\ImageApp\ImageApp\obj\Debug\netstandard2.0\ImageApp.pdb

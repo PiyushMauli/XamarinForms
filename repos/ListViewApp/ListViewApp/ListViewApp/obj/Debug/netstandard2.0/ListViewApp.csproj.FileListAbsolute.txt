@@ -1,0 +1,13 @@
+C:\Users\piyush.j\source\repos\ListViewApp\ListViewApp\ListViewApp\bin\Debug\netstandard2.0\ListViewApp.deps.json
+C:\Users\piyush.j\source\repos\ListViewApp\ListViewApp\ListViewApp\bin\Debug\netstandard2.0\ListViewApp.dll
+C:\Users\piyush.j\source\repos\ListViewApp\ListViewApp\ListViewApp\bin\Debug\netstandard2.0\ref\ListViewApp.dll
+C:\Users\piyush.j\source\repos\ListViewApp\ListViewApp\ListViewApp\bin\Debug\netstandard2.0\ListViewApp.pdb
+C:\Users\piyush.j\source\repos\ListViewApp\ListViewApp\ListViewApp\obj\Debug\netstandard2.0\ListViewApp.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\ListViewApp\ListViewApp\ListViewApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\piyush.j\source\repos\ListViewApp\ListViewApp\ListViewApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\piyush.j\source\repos\ListViewApp\ListViewApp\ListViewApp\obj\Debug\netstandard2.0\ListViewApp.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\ListViewApp\ListViewApp\ListViewApp\obj\Debug\netstandard2.0\ListViewApp.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\ListViewApp\ListViewApp\ListViewApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\piyush.j\source\repos\ListViewApp\ListViewApp\ListViewApp\obj\Debug\netstandard2.0\ListViewApp.dll
+C:\Users\piyush.j\source\repos\ListViewApp\ListViewApp\ListViewApp\obj\Debug\netstandard2.0\ref\ListViewApp.dll
+C:\Users\piyush.j\source\repos\ListViewApp\ListViewApp\ListViewApp\obj\Debug\netstandard2.0\ListViewApp.pdb

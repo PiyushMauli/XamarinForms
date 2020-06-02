@@ -1,0 +1,5 @@
+C:\Users\piyush.j\source\repos\InterfaceTesting\InterfaceTesting\obj\Debug\netcoreapp3.1\InterfaceTesting.csprojAssemblyReference.cache
+C:\Users\piyush.j\source\repos\InterfaceTesting\InterfaceTesting\obj\Debug\netcoreapp3.1\InterfaceTesting.csproj.CoreCompileInputs.cache
+C:\Users\piyush.j\source\repos\InterfaceTesting\InterfaceTesting\obj\Debug\netcoreapp3.1\InterfaceTesting.AssemblyInfoInputs.cache
+C:\Users\piyush.j\source\repos\InterfaceTesting\InterfaceTesting\obj\Debug\netcoreapp3.1\InterfaceTesting.AssemblyInfo.cs
+C:\Users\piyush.j\source\repos\InterfaceTesting\InterfaceTesting\bin\Debug\netcoreapp3.1\InterfaceTesting.exe
